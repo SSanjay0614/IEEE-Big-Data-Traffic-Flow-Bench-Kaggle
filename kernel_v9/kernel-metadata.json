@@ -1,0 +1,17 @@
+{
+  "id": "sanjay0614/tf-v9-onset-070",
+  "title": "TF V9 Onset 070",
+  "code_file": "tf_v9_onset_070.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets"
+  ]
+}
