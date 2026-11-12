@@ -1,0 +1,17 @@
+{
+  "id": "sanjay0614/tf-v13-queue-open",
+  "title": "TF V13 Queue Open",
+  "code_file": "tf_v13_queue_open.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets"
+  ]
+}
