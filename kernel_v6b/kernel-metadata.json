@@ -1,0 +1,17 @@
+{
+  "id": "sanjay0614/tf-v6b-onset-shape",
+  "title": "TF V6b Onset Shape",
+  "code_file": "tf_v6b_shape_audit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets"
+  ]
+}
