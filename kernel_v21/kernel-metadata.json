@@ -1,0 +1,18 @@
+{
+  "id": "sanjay0614/tf-v21-reg-ongoing",
+  "title": "TF V21 Reg Ongoing",
+  "code_file": "tf_v21_reg_ongoing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets",
+    "sanjay0614/tf-ongoing-reg"
+  ]
+}
