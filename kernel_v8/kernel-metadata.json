@@ -1,0 +1,17 @@
+{
+  "id": "sanjay0614/tf-v8-onset-revert",
+  "title": "TF V8 Onset Revert",
+  "code_file": "tf_v8_onset_revert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets"
+  ]
+}
