@@ -1,0 +1,14 @@
+{
+  "id": "sanjay0614/tf-v1-task1-baseline",
+  "title": "TF V1 Task1 Baseline",
+  "code_file": "tf_v1_task1_baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ]
+}
