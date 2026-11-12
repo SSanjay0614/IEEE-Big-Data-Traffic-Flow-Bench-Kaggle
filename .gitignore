@@ -1,0 +1,25 @@
+# Python & notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Competition package (12.4 GB) and downloaded outputs
+data/
+**/output/
+**/kaggle_output*/
+*.log
+*.zip
+
+# Large submission artefacts: the template alone is 152 MB
+submission*.csv
+**/submission*.csv
+
+# Local caches and results
+notes/results/
+*.parquet
+
+# Per-task artefacts (regenerated locally, multi-hundred-MB each)
+state.csv
+queue.csv
+odme.csv
+*.csv.kaggle-partial
