@@ -1,0 +1,17 @@
+{
+  "id": "sanjay0614/tf-v16-odme-lam012",
+  "title": "TF V16 ODME Lam012",
+  "code_file": "tf_v16_odme_lam012.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "dataset_sources": [
+    "anubisyy/trafficflowbench-086517-public-assets"
+  ]
+}
